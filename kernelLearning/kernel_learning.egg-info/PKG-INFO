@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: kernel-learning
+Version: 0.1
+Summary: GPflow implementation of 'Differentiable kernel learning'
+Home-page: https://github.com/frgsimpson
+Author: Fergus Simpson
+Author-email: fergus@prowler.io
+License: Apache License 2.0
+Description: UNKNOWN
+Keywords: machine-learning
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.5

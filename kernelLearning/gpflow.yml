@@ -15,5 +15,4 @@ dependencies:
   - networkx
   - numexpr
   - numpy==1.15.0
-  - gpflow==1.2.0
   - matplotlib==2.2.2

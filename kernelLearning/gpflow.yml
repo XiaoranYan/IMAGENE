@@ -10,7 +10,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - tensorflow == 1.13.1
   - nb_conda
   - networkx
   - numexpr

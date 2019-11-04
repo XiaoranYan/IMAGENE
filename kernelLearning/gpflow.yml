@@ -16,4 +16,4 @@ dependencies:
   - numexpr
   - numpy==1.15.0
   - matplotlib==2.2.2
-  - sklearn
+  - scikit-learn

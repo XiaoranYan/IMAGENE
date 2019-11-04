@@ -12,3 +12,4 @@ dependencies:
   - numpy==1.15.0
   - matplotlib==2.2.2
   - scikit-learn
+prefix: home/yan30/.conda/envs/gpflow
